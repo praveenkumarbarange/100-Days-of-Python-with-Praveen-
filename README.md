@@ -26,6 +26,7 @@ Each day includes:
 
 100 Days of Python Plan
 🟢 Days 1–30: Beginner
+
 Day 1–5 → Basics (variables, data types, input/output)
 
 Day 6–10 → Control flow (if/else, loops)
