@@ -23,6 +23,7 @@ Each day includes:
 - **Days 1–30** → Beginner (syntax, loops, functions, data structures)  
 - **Days 31–70** → Intermediate (OOP, modules, APIs, file handling, data analysis)  
 - **Days 71–100** → Advanced (web apps, ML basics, automation, final capstone projects)  
+
 100 Days of Python Plan
 🟢 Days 1–30: Beginner
 Day 1–5 → Basics (variables, data types, input/output)
