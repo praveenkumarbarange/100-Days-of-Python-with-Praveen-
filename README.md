@@ -23,7 +23,51 @@ Each day includes:
 - **Days 1–30** → Beginner (syntax, loops, functions, data structures)  
 - **Days 31–70** → Intermediate (OOP, modules, APIs, file handling, data analysis)  
 - **Days 71–100** → Advanced (web apps, ML basics, automation, final capstone projects)  
+100 Days of Python Plan
+🟢 Days 1–30: Beginner
+Day 1–5 → Basics (variables, data types, input/output)
 
+Day 6–10 → Control flow (if/else, loops)
+
+Day 11–15 → Functions
+
+Day 16–20 → Lists, tuples, sets, dictionaries
+
+Day 21–25 → String manipulation
+
+Day 26–30 → Mini projects (calculator, guessing game, marks analyzer)
+
+🟡 Days 31–70: Intermediate
+Day 31–35 → File handling (read/write CSV, JSON)
+
+Day 36–40 → Error handling & debugging
+
+Day 41–45 → Modules & packages
+
+Day 46–50 → Object-Oriented Programming (classes, inheritance)
+
+Day 51–55 → APIs & requests
+
+Day 56–60 → Pandas basics (dataframes, cleaning)
+
+Day 61–65 → NumPy basics
+
+Day 66–70 → Mini projects (expense tracker, weather app, data cleaning script)
+
+🔴 Days 71–100: Advanced
+Day 71–75 → Data visualization (Matplotlib, Seaborn)
+
+Day 76–80 → Web scraping (BeautifulSoup, Selenium)
+
+Day 81–85 → Databases (SQLite, SQLAlchemy)
+
+Day 86–90 → Flask/Django basics (web apps)
+
+Day 91–95 → Machine Learning intro (Scikit-learn)
+
+Day 96–99 → Capstone projects (dashboard, ML model, automation script)
+
+Day 100 → Showcase project + GitHub portfolio polish
 ---
 
 ## 🚀 Example Day
